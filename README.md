@@ -1,3 +1,6 @@
-Jika Ada Bug Silakan DM Discord : haannzzz
+FIVEM WATERMARK LOGO SCRIPT
 
-""""""""""""HZCODENITO""""""""""""
+- EASY INSTALL
+- OPTIMIZE SCRIPT
+- PLUG N PLAY
+- ENSURE hzcode_watermark
