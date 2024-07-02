@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'hzl-wm'
+description 'hzCODENITO'
 version '1.0.0'
 
 
